@@ -9,12 +9,12 @@ Garrett, M. et. al. (2023) Stimulus novelty uncovers coding diversity in visual 
 ## Investigating cell type and layer-specific processing of novelty in mouse primary visual cortex
 
 Accurate detection of change is a fundamental aspect of sensory processing that enables organisms to respond appropriately to their environment. 
-Recent studies have identified a key circuit motif in the mouse primary visual cortex that processes novel visual stimuli (Krabbe et al., 2019; Pi et al., 2013). 
+Recent studies have identified a key circuit motif in the mouse primary visual cortex that processes novel visual stimuli ([Krabbe et al., 2019](https://www.nature.com/articles/s41593-019-0508-y); [Pi et al., 2013](https://www.nature.com/articles/nature12676)). 
 This circuit consists of reciprocally connected excitatory neurons and inhibitory interneurons, including those expressing vasoactive intestinal peptide (VIP) 
 and somatostatin (SST). These studies suggest that novelty induces a net disinhibition of excitatory neurons through Vip-mediated inhibition of SSt interneurons 
-(Furutachi et al. 2023). Given the well-established diversity of both excitatory and inhibitory neurons across cortical layers, layer-specific processing of novelty 
-signals is an important question. Prediction error signals have been primarily observed in layer 2/3 of the visual cortex (Homann et al., 2022; Keller and 
-Mrsic-Flogel, 2018; Muzzu and Saleem, 2021), while deeper layers are thought to encode memory-related signals (Doron et al., 2019; Murayama et al., 2009). 
+([Furutachi et al. 2024](https://www.nature.com/articles/s41586-024-07851-w)). Given the well-established diversity of both excitatory and inhibitory neurons across cortical layers, layer-specific processing of novelty 
+signals is an important question. Prediction error signals have been primarily observed in layer 2/3 of the visual cortex ([Homann et al., 2022](https://www.pnas.org/doi/10.1073/pnas.2108882119); [Keller and 
+Mrsic-Flogel, 2018](https://www.sciencedirect.com/science/article/pii/S0896627318308572); [Muzzu and Saleem, 2021](https://pubmed.ncbi.nlm.nih.gov/34610298/)), while deeper layers are thought to encode memory-related signals (Doron et al., 2019; Murayama et al., 2009). 
 The differential processing of novel stimuli by neurons in the excitatory-Vip-Sst circuit motif across superficial and deep cortical layers remains understudied. 
 We aim to address whether novelty processing is depth-specific or not by using the Allen Institute 2-photon Visual Behaviour dataset (de Vries et al., 2020, Siegle 
 et al., 2021., Garrett et al., 2023), which includes imaging and behavioral data from mice performing a visual change detection task. After filtering and collating 
