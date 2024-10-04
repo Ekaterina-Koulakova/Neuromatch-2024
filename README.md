@@ -25,6 +25,6 @@ for each cell type. This work will enable us to identify V1 layer-specific diffe
 
 **This project was developed by**
 * Aishwarya Vedula | PhD Candidate at Oxford
-* Ekaterina Koulakova | Research Assistant at NYU
+* Ekaterina Koulakova | Research Associate at NYU
 * Cyril Akafia | Postgraduate Associate at Yale
 * Maxime Vounatsos | PhD Candidate at Carnegie Mellon University
